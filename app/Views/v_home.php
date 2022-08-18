@@ -1,6 +1,5 @@
 <?= $this->extend('template/template_frontend') ?>
 <?= $this->section('content'); ?>
-<!-- ini isi halaman -->
     <section class="my-5 py-5">
         <div class="container">
             <div class="row align-items-center">
